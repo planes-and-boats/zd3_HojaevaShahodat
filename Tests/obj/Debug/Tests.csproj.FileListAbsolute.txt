@@ -1,0 +1,57 @@
+C:\Ходжаева ПР-21\ProductsLibrary\Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Ходжаева ПР-21\ProductsLibrary\Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Ходжаева ПР-21\ProductsLibrary\Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Ходжаева ПР-21\ProductsLibrary\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Ходжаева ПР-21\ProductsLibrary\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Ходжаева ПР-21\ProductsLibrary\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Ходжаева ПР-21\ProductsLibrary\Tests\bin\Debug\Tests.dll
+C:\Ходжаева ПР-21\ProductsLibrary\Tests\bin\Debug\Tests.pdb
+C:\Ходжаева ПР-21\ProductsLibrary\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Ходжаева ПР-21\ProductsLibrary\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Ходжаева ПР-21\ProductsLibrary\Tests\bin\Debug\ProductsLibrary.dll
+C:\Ходжаева ПР-21\ProductsLibrary\Tests\bin\Debug\ProductsLibrary.pdb
+C:\Ходжаева ПР-21\ProductsLibrary\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Ходжаева ПР-21\ProductsLibrary\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Ходжаева ПР-21\ProductsLibrary\Tests\obj\Debug\Tests.csproj.AssemblyReference.cache
+C:\Ходжаева ПР-21\ProductsLibrary\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+C:\Ходжаева ПР-21\ProductsLibrary\Tests\obj\Debug\Tests.csproj.CopyComplete
+C:\Ходжаева ПР-21\ProductsLibrary\Tests\obj\Debug\Tests.dll
+C:\Ходжаева ПР-21\ProductsLibrary\Tests\obj\Debug\Tests.pdb
+C:\Ходжаева ПР-21\Индивидуальное задание\ProductsLibrary\Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Ходжаева ПР-21\Индивидуальное задание\ProductsLibrary\Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Ходжаева ПР-21\Индивидуальное задание\ProductsLibrary\Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Ходжаева ПР-21\Индивидуальное задание\ProductsLibrary\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Ходжаева ПР-21\Индивидуальное задание\ProductsLibrary\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Ходжаева ПР-21\Индивидуальное задание\ProductsLibrary\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Ходжаева ПР-21\Индивидуальное задание\ProductsLibrary\Tests\bin\Debug\Tests.dll
+C:\Ходжаева ПР-21\Индивидуальное задание\ProductsLibrary\Tests\bin\Debug\Tests.pdb
+C:\Ходжаева ПР-21\Индивидуальное задание\ProductsLibrary\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Ходжаева ПР-21\Индивидуальное задание\ProductsLibrary\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Ходжаева ПР-21\Индивидуальное задание\ProductsLibrary\Tests\bin\Debug\ProductsLibrary.dll
+C:\Ходжаева ПР-21\Индивидуальное задание\ProductsLibrary\Tests\bin\Debug\ProductsLibrary.pdb
+C:\Ходжаева ПР-21\Индивидуальное задание\ProductsLibrary\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Ходжаева ПР-21\Индивидуальное задание\ProductsLibrary\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Ходжаева ПР-21\Индивидуальное задание\ProductsLibrary\Tests\obj\Debug\Tests.csproj.AssemblyReference.cache
+C:\Ходжаева ПР-21\Индивидуальное задание\ProductsLibrary\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+C:\Ходжаева ПР-21\Индивидуальное задание\ProductsLibrary\Tests\obj\Debug\Tests.csproj.CopyComplete
+C:\Ходжаева ПР-21\Индивидуальное задание\ProductsLibrary\Tests\obj\Debug\Tests.dll
+C:\Ходжаева ПР-21\Индивидуальное задание\ProductsLibrary\Tests\obj\Debug\Tests.pdb
+C:\Users\Пользователь\Desktop\Бред\УП\Индивидуальное задание\ProductsLibrary\Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Пользователь\Desktop\Бред\УП\Индивидуальное задание\ProductsLibrary\Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Пользователь\Desktop\Бред\УП\Индивидуальное задание\ProductsLibrary\Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Пользователь\Desktop\Бред\УП\Индивидуальное задание\ProductsLibrary\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Пользователь\Desktop\Бред\УП\Индивидуальное задание\ProductsLibrary\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Пользователь\Desktop\Бред\УП\Индивидуальное задание\ProductsLibrary\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Пользователь\Desktop\Бред\УП\Индивидуальное задание\ProductsLibrary\Tests\bin\Debug\Tests.dll
+C:\Users\Пользователь\Desktop\Бред\УП\Индивидуальное задание\ProductsLibrary\Tests\bin\Debug\Tests.pdb
+C:\Users\Пользователь\Desktop\Бред\УП\Индивидуальное задание\ProductsLibrary\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Пользователь\Desktop\Бред\УП\Индивидуальное задание\ProductsLibrary\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Пользователь\Desktop\Бред\УП\Индивидуальное задание\ProductsLibrary\Tests\bin\Debug\ProductsLibrary.dll
+C:\Users\Пользователь\Desktop\Бред\УП\Индивидуальное задание\ProductsLibrary\Tests\bin\Debug\ProductsLibrary.pdb
+C:\Users\Пользователь\Desktop\Бред\УП\Индивидуальное задание\ProductsLibrary\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Пользователь\Desktop\Бред\УП\Индивидуальное задание\ProductsLibrary\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Пользователь\Desktop\Бред\УП\Индивидуальное задание\ProductsLibrary\Tests\obj\Debug\Tests.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Бред\УП\Индивидуальное задание\ProductsLibrary\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Бред\УП\Индивидуальное задание\ProductsLibrary\Tests\obj\Debug\Tests.csproj.Up2Date
+C:\Users\Пользователь\Desktop\Бред\УП\Индивидуальное задание\ProductsLibrary\Tests\obj\Debug\Tests.dll
+C:\Users\Пользователь\Desktop\Бред\УП\Индивидуальное задание\ProductsLibrary\Tests\obj\Debug\Tests.pdb

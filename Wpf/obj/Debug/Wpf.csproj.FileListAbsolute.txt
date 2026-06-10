@@ -1,0 +1,37 @@
+C:\Ходжаева ПР-21\Индивидуальное задание\Wpf\bin\Debug\Wpf.exe.config
+C:\Ходжаева ПР-21\Индивидуальное задание\Wpf\bin\Debug\Wpf.exe
+C:\Ходжаева ПР-21\Индивидуальное задание\Wpf\bin\Debug\Wpf.pdb
+C:\Ходжаева ПР-21\Индивидуальное задание\Wpf\bin\Debug\ProductsLibrary.dll
+C:\Ходжаева ПР-21\Индивидуальное задание\Wpf\bin\Debug\ProductsLibrary.pdb
+C:\Ходжаева ПР-21\Индивидуальное задание\Wpf\obj\Debug\Wpf.csproj.AssemblyReference.cache
+C:\Ходжаева ПР-21\Индивидуальное задание\Wpf\obj\Debug\MainWindow.g.cs
+C:\Ходжаева ПР-21\Индивидуальное задание\Wpf\obj\Debug\App.g.cs
+C:\Ходжаева ПР-21\Индивидуальное задание\Wpf\obj\Debug\Wpf_MarkupCompile.cache
+C:\Ходжаева ПР-21\Индивидуальное задание\Wpf\obj\Debug\Wpf_MarkupCompile.lref
+C:\Ходжаева ПР-21\Индивидуальное задание\Wpf\obj\Debug\MainWindow.baml
+C:\Ходжаева ПР-21\Индивидуальное задание\Wpf\obj\Debug\Wpf.g.resources
+C:\Ходжаева ПР-21\Индивидуальное задание\Wpf\obj\Debug\Wpf.Properties.Resources.resources
+C:\Ходжаева ПР-21\Индивидуальное задание\Wpf\obj\Debug\Wpf.csproj.GenerateResource.cache
+C:\Ходжаева ПР-21\Индивидуальное задание\Wpf\obj\Debug\Wpf.csproj.CoreCompileInputs.cache
+C:\Ходжаева ПР-21\Индивидуальное задание\Wpf\obj\Debug\Wpf.csproj.CopyComplete
+C:\Ходжаева ПР-21\Индивидуальное задание\Wpf\obj\Debug\Wpf.exe
+C:\Ходжаева ПР-21\Индивидуальное задание\Wpf\obj\Debug\Wpf.pdb
+C:\Users\Пользователь\Desktop\Бред\УП\Индивидуальное задание\ProductsLibrary\Wpf\bin\Debug\Wpf.exe.config
+C:\Users\Пользователь\Desktop\Бред\УП\Индивидуальное задание\ProductsLibrary\Wpf\bin\Debug\Wpf.exe
+C:\Users\Пользователь\Desktop\Бред\УП\Индивидуальное задание\ProductsLibrary\Wpf\bin\Debug\Wpf.pdb
+C:\Users\Пользователь\Desktop\Бред\УП\Индивидуальное задание\ProductsLibrary\Wpf\bin\Debug\ProductsLibrary.dll
+C:\Users\Пользователь\Desktop\Бред\УП\Индивидуальное задание\ProductsLibrary\Wpf\bin\Debug\ProductsLibrary.pdb
+C:\Users\Пользователь\Desktop\Бред\УП\Индивидуальное задание\ProductsLibrary\Wpf\obj\Debug\Wpf.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Бред\УП\Индивидуальное задание\ProductsLibrary\Wpf\obj\Debug\Wpf.exe.config
+C:\Users\Пользователь\Desktop\Бред\УП\Индивидуальное задание\ProductsLibrary\Wpf\obj\Debug\MainWindow.g.cs
+C:\Users\Пользователь\Desktop\Бред\УП\Индивидуальное задание\ProductsLibrary\Wpf\obj\Debug\App.g.cs
+C:\Users\Пользователь\Desktop\Бред\УП\Индивидуальное задание\ProductsLibrary\Wpf\obj\Debug\Wpf_MarkupCompile.cache
+C:\Users\Пользователь\Desktop\Бред\УП\Индивидуальное задание\ProductsLibrary\Wpf\obj\Debug\Wpf_MarkupCompile.lref
+C:\Users\Пользователь\Desktop\Бред\УП\Индивидуальное задание\ProductsLibrary\Wpf\obj\Debug\MainWindow.baml
+C:\Users\Пользователь\Desktop\Бред\УП\Индивидуальное задание\ProductsLibrary\Wpf\obj\Debug\Wpf.g.resources
+C:\Users\Пользователь\Desktop\Бред\УП\Индивидуальное задание\ProductsLibrary\Wpf\obj\Debug\Wpf.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\Бред\УП\Индивидуальное задание\ProductsLibrary\Wpf\obj\Debug\Wpf.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\Бред\УП\Индивидуальное задание\ProductsLibrary\Wpf\obj\Debug\Wpf.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Бред\УП\Индивидуальное задание\ProductsLibrary\Wpf\obj\Debug\Wpf.csproj.Up2Date
+C:\Users\Пользователь\Desktop\Бред\УП\Индивидуальное задание\ProductsLibrary\Wpf\obj\Debug\Wpf.exe
+C:\Users\Пользователь\Desktop\Бред\УП\Индивидуальное задание\ProductsLibrary\Wpf\obj\Debug\Wpf.pdb

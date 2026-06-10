@@ -1,0 +1,12 @@
+C:\Ходжаева ПР-21\ProductsLibrary\ProductsLibrary\bin\Debug\ProductsLibrary.dll
+C:\Ходжаева ПР-21\ProductsLibrary\ProductsLibrary\bin\Debug\ProductsLibrary.pdb
+C:\Ходжаева ПР-21\ProductsLibrary\ProductsLibrary\obj\Debug\ProductsLibrary.csproj.AssemblyReference.cache
+C:\Ходжаева ПР-21\ProductsLibrary\ProductsLibrary\obj\Debug\ProductsLibrary.csproj.CoreCompileInputs.cache
+C:\Ходжаева ПР-21\ProductsLibrary\ProductsLibrary\obj\Debug\ProductsLibrary.dll
+C:\Ходжаева ПР-21\ProductsLibrary\ProductsLibrary\obj\Debug\ProductsLibrary.pdb
+C:\Users\Пользователь\Desktop\Бред\УП\Индивидуальное задание\ProductsLibrary\ProductsLibrary\bin\Debug\ProductsLibrary.dll
+C:\Users\Пользователь\Desktop\Бред\УП\Индивидуальное задание\ProductsLibrary\ProductsLibrary\bin\Debug\ProductsLibrary.pdb
+C:\Users\Пользователь\Desktop\Бред\УП\Индивидуальное задание\ProductsLibrary\ProductsLibrary\obj\Debug\ProductsLibrary.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Бред\УП\Индивидуальное задание\ProductsLibrary\ProductsLibrary\obj\Debug\ProductsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Бред\УП\Индивидуальное задание\ProductsLibrary\ProductsLibrary\obj\Debug\ProductsLibrary.dll
+C:\Users\Пользователь\Desktop\Бред\УП\Индивидуальное задание\ProductsLibrary\ProductsLibrary\obj\Debug\ProductsLibrary.pdb
